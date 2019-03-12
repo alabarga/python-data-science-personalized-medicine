@@ -30,6 +30,9 @@ or download and unzip
 
 https://github.com/alabarga/python-data-science-personalized-medicine-2019/archive/master.zip
 
+
+    cd python-data-science-personalized-medicine-2019
+
 ## Install data science libraries
 
     pipenv install pandas numpy scikit-learn matplotlib seaborn
