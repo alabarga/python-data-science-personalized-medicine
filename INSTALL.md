@@ -21,9 +21,27 @@ Pipenv is a Python dependency manager. Functionally, it’s a combination of pip
 
 ## Clone this repository
 
+Use git to make a working copy of this repository
+
+
+    git clone https://github.com/alabarga/python-data-science-personalized-medicine-2019.git
+
+or download and unzip
+
+https://github.com/alabarga/python-data-science-personalized-medicine-2019/archive/master.zip
+
 ## Install data science libraries
 
+    pipenv install pandas numpy scikit-learn matplotlib seaborn
+    
+
+You’ll also notice a couple of files called Pipfile and Pipfile.lock have been created – this is a record of the whole dependency graph of the project. It should be checked into source control, as Pipenv can use it to ensure deterministic builds.
+
 ## Install Jupyter
+
+    pipenv install jupyter
+    
+    pipenv run jupyter notebook
 
 
 
