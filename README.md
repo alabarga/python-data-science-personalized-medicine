@@ -1,7 +1,6 @@
 # Data science for personalized medicine
 
-This repository is for the Data Science with Python for Persnalised Medicine
-The Master's Degree in Innovation and Entrepreneurship in Biomedical Engineering
+This repository is for the Data Science with Python for Personalised Medicine course as part of the Master's Degree in Innovation and Entrepreneurship in Biomedical Engineering
 
 The main aim of this master's degree is to train a new generation of technologists who can transform biomedical innovations into feasible business solutions. The master's degree helps students to develop in-depth knowledge of technologies used in the health sector; the capacity to understand clinical, social and economic aspects; and a broad understanding of innovation and entrepreneurial spirit in the medical technology sector. It is designed to foster technological innovation in the health sector, and to promote business initiatives.
 
