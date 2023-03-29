@@ -35,7 +35,7 @@ https://github.com/alabarga/python-data-science-personalized-medicine-2019/archi
 
 ## Install data science libraries
 
-    pipenv install pandas numpy scikit-learn matplotlib seaborn
+    pipenv install pandas numpy scikit-learn matplotlib seaborn sdv lime shap
     
 
 You’ll also notice a couple of files called Pipfile and Pipfile.lock have been created – this is a record of the whole dependency graph of the project. It should be checked into source control, as Pipenv can use it to ensure deterministic builds.
