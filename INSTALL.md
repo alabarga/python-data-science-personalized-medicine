@@ -24,14 +24,14 @@ Pipenv is a Python dependency manager. Functionally, it’s a combination of pip
 Use git to make a working copy of this repository
 
 
-    git clone https://github.com/alabarga/python-data-science-personalized-medicine-2019.git
+    git clone https://github.com/alabarga/python-data-science-personalized-medicine.git
 
 or download and unzip
 
-https://github.com/alabarga/python-data-science-personalized-medicine-2019/archive/master.zip
+https://github.com/alabarga/python-data-science-personalized-medicine/archive/master.zip
 
 
-    cd python-data-science-personalized-medicine-2019
+    cd python-data-science-personalized-medicine
 
 ## Install data science libraries
 
